@@ -1,5 +1,5 @@
-# Video Historia GM
+# Estudio de Historias GM
 
-Página con tres propuestas de video para historia (GM & Asociados). Cada propuesta se reproduce en el teléfono; se elige una, se completan instrucciones y se copia un resumen para pegar en el chat.
+Herramienta para armar historias y reels de GM & Asociados: elegís plantilla y fondo, cargás un tema o escribís tus textos, y descargás la imagen o el video listo para subir (formato 1080 × 1920).
 
 Ver publicado: https://consultorarzok.github.io/video-historia-gm/
